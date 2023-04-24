@@ -1,1 +1,1 @@
-# Layout de um site de login com HTML e CSS
+# Layout de um site de login com HTML e CSS (Não responsivo)
